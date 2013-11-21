@@ -1,6 +1,5 @@
-# ----- #
 # Title: RTES_Project6
-# ----- #
+
 
 Description:
   - Reads a value from Port B and uses it to control the PWM value.
